@@ -2,12 +2,12 @@
 This is a SAS project about fraud analysis in Canada.
 
 # Fraud Strategy & Analysis
-Debit & Credit Fraud
-  Lost/Stolen
-  Synthetic card(Skimming)
-  CNP
-  Worthless deposit
-  Impersonation
+Debit & Credit Fraud:
+Lost/Stolen
+Synthetic card(Skimming)
+CNP
+Worthless deposit
+Impersonation
 Commercial Fraud
   EFT(Electronic Fund Transfer)
   Kiting
