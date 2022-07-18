@@ -15,12 +15,10 @@ Commercial Fraud:
 
 # Fraud Analytics
 Fraud:
--First Party(Supervised Learning: Client Profile)
--Third Party(Analytics: Abnormal Activity)
-
+1. First Party(Supervised Learning: Client Profile)
+2. Third Party(Analytics: Abnormal Activity)
 
 AML(Unsupervised Learning)
-
 
 CNA-Client Network Analysis(Big Data/Neural Networks)
 
@@ -30,15 +28,14 @@ Goal: Utilize data analytics/modeling to minimize reputation risk/fraud loss whi
 # Fraud Control System
 Rules are embedded/updated into this system
 
-Real Time and Near Real Time actions
- 
- Real Time action: Rule based approve/decline/hold
+Real Time and Near Real Time actions:
+ 1. Real Time action: Rule based approve/decline/hold
     
    Directly impact client experience
     
    Performance vs. Decline No.
   
-  Near Time action: Alert-Expert judgement
+ 2. Near Time action: Alert-Expert judgement
     
    Indirectly impact
     
