@@ -10,17 +10,13 @@ Debit & Credit Fraud:
 5. Impersonation
 
 Commercial Fraud:
-  
-EFT(Electronic Fund Transfer)
-  
-Kiting
+1. EFT(Electronic Fund Transfer)
+2. Kiting
 
 # Fraud Analytics
-Fraud
-  
-  First Party(Supervised Learning: Client Profile)
-  
-  Third Party(Analytics: Abnormal Activity)
+Fraud:
+-First Party(Supervised Learning: Client Profile)
+-Third Party(Analytics: Abnormal Activity)
 
 
 AML(Unsupervised Learning)
