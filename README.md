@@ -14,11 +14,11 @@ Worthless deposit
 
 Impersonation
 
-Commercial Fraud
+Commercial Fraud:
   
-  EFT(Electronic Fund Transfer)
+EFT(Electronic Fund Transfer)
   
-  Kiting
+Kiting
 
 # Fraud Analytics
 Fraud
@@ -43,15 +43,15 @@ Real Time and Near Real Time actions
  
  Real Time action: Rule based approve/decline/hold
     
-    Directly impact client experience
+   Directly impact client experience
     
-    Performance vs. Decline No.
+   Performance vs. Decline No.
   
   Near Time action: Alert-Expert judgement
     
-    Indirectly impact
+   Indirectly impact
     
-    Alert No. vs. Capacity
+   Alert No. vs. Capacity
 
 Rule Performance Evaluation
   
