@@ -3,6 +3,7 @@ This is a SAS project about fraud analysis in Canada.
 
 # Fraud Strategy & Analysis
 Debit & Credit Fraud:
+
 Lost/Stolen
 Synthetic card(Skimming)
 CNP
